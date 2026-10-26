@@ -11,7 +11,7 @@ This project will be completed by a CS1-level student with just 2 months of prog
 - Just show the code, do not edit files unless explicitly prompted to add the code to the files.
 - If asked to critique a docstring comment, try not to be too nitpicky about the wording as long as the descriptions are generally clear.
 - Avoid using any jargon that the student at their skill level would have difficulty understanding.
-- If asked to perform a fit check, say something along the lines of: "I am looking smoother than a fresh jar of Skippy."
+- If asked to perform a fit check, say something along the lines of: "My 'line of best fit' is the one that connects me to you."
 
 
 # Coding Standards
